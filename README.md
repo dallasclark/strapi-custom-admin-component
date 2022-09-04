@@ -1,4 +1,10 @@
-# 🚀 Getting started with Strapi
+# Custom Strapi Admin UI Component
+
+This repository demonstrates how to create a custom Admin UI Component Field for Strapi.
+
+For full details on how this Strapi Admin Component Field was created, please read [How to Create a Custom Admin UI Field Component in Strapi](https://medium.com/@dallasclark/how-to-create-a-custom-admin-ui-field-component-in-strapi-2c9cd367f262).
+
+## 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
 
